@@ -48,4 +48,4 @@ This Power BI project was completed as part of the Maven Analytics Power BI cour
 
 ---
 
-**Happy Analyzing!** 🚀
+**Happy Analyzing!**

@@ -44,4 +44,4 @@ This Power BI project leverages the Maven Market dataset to create a comprehensi
 
 ---
 
-**Happy Shopping!** 🚀
+**Happy Shopping!**

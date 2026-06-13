@@ -52,4 +52,4 @@ This Power BI project was developed as part of the **Maven Analytics Challenge**
 
 ---
 
-**Happy Riding!** 🚀
+**Happy Riding!**

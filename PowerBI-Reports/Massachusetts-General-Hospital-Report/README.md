@@ -66,4 +66,4 @@ By leveraging data-driven insights, healthcare organizations can make informed d
 
 ---
 
-**Stay Safe!** 🚀
+**Stay Safe!**
